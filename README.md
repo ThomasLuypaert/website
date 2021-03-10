@@ -1,2 +1,2 @@
-# ThomasLuypaert
-This is the repository for my personal academic website. 
+# This is the repository for my personal academic website
+
