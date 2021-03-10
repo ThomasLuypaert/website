@@ -1,2 +1,2 @@
-# Thomas Luypaert: personal website repository
+# Thomas Luypaert: Website repository
 
